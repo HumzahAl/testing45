@@ -1,0 +1,4 @@
+﻿Food, quantity
+Banana, 6
+Orange, 7
+Pea, 1
